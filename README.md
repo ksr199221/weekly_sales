@@ -1,6 +1,5 @@
 # Data Warehousing and Data Pipeline for weekly_sales
 
-<<<<<<< HEAD
 ## Ingest Data
 
 ## Data Validations
