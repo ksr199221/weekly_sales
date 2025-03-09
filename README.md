@@ -1,11 +1,5 @@
 # Data Warehousing and Data Pipeline for weekly_sales
 
-## Ingest Data
-
-## Data Validations
-
-## Processing
-=======
 ## Ways to Implement the Project:
 ***
 **Option A: Through AWS**
