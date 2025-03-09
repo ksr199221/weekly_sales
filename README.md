@@ -99,4 +99,3 @@
 - Done the Processing to get the weekly sales and created delta table
 - Fetched Incremental Data for new and updated records
 - Merged with weekly sales tables to do insert and updates.
->>>>>>> abf998597a385ab3a43f650f22e7c7231f634a9b
